@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AGRO - Your description here">
+    <meta name="author" content="Your Name">
+    <title>PRUEBA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <center>
+<div class="container" style="background-color: bisque;">
+    <h1>Clase</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque incidunt aspernatur minima debitis, sed nemo accusantium voluptates explicabo possimus deleniti
+        eum, voluptatem rem facilis dignissimos repellat iure asperiores, nihil voluptatibus!</p>
+</div>
+<div class="container">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5K08rKxUEHZsgxTHElnQc6bFEmuVzD6FUg&s" alt="HTML">
+</div>
+</center>
+</body>
+</html>
